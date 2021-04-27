@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **PHP, vue, reactjs, nodejs**
 
-- 👯 I’m looking to collaborate with Stoian Mihail [stoianmmihail](https://github.com/stoianmihail)
+- 👯 I’m looking to collaborate with Stoian Mihail [stoianmihail](https://github.com/stoianmihail)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Alexie81](https://github.com/Alexie81)
 
