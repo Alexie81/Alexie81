@@ -15,8 +15,6 @@
 
 - 💬 Ask me about **html, js, firebase, nodejs, electron, laravel**
 
-- ⚡ Fun fact **I think i am pro :)**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://discord.gg/PN6XxRnHcH" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/discord-1863643-1581238.png" alt="PN6XxRnHcH" height="30" width="40" /></a>
