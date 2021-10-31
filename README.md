@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alexie81" alt="alexie81" /></a> </p>
 
-- 🔭 I’m currently working on RomanianCurrencyParser [RomanianCurrencyParser](https://github.com/Alexie81/RomanianCurrencyParser)
+<!-- - 🔭 I’m currently working on RomanianCurrencyParser [RomanianCurrencyParser](https://github.com/Alexie81/RomanianCurrencyParser) -->
 
 - 🌱 I’m currently learning **PHP, vue, reactjs, nodejs**
 
@@ -18,7 +18,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://discord.gg/PN6XxRnHcH" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/discord-1863643-1581238.png" alt="PN6XxRnHcH" height="30" width="40" /></a>
+<a href="https://discord.gg/QDjYZPqgAS" target="blank"><img align="center" src="https://i.dlpng.com/static/png/6838231_preview.png" alt="PN6XxRnHcH" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -27,4 +27,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexie81&show_icons=true&locale=en&layout=compact" alt="alexie81" /></p>
 <br />
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alexie81&show_icons=true&locale=en" alt="alexie81" /></p>
+<br />
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alexie81&" alt="alexie81" /></p>
