@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Alexie</h1>
-<h3 align="center">Web Developer</h3>
+<h3 align="center">Senior Software Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexie81&label=Profile%20views&color=0e75b6&style=flat" alt="alexie81" /> </p>
 
@@ -10,15 +10,15 @@
 
 - 🌱 I’m currently learning **PHP, vue, reactjs, nodejs**
 
-- 👯 I’m looking to collaborate with Stoian Mihail [stoianmihail](https://github.com/stoianmihail)
+- 👯 I’m looking to collaborate with Oracle [Oracle](https://github.com/oracle)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Alexie81](https://github.com/Alexie81)
 
-- 💬 Ask me about **html, js, firebase, nodejs, electron, laravel**
+- 💬 Ask me about **html, js, firebase, nodejs, electron, reactjs, css, database, PHP, bootstrap, python, tensorflow, mySql, sql, sqlite, node-databases, git, mongodb, android, react-native**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://discord.gg/QDjYZPqgAS" target="blank"><img align="center" src="https://i.dlpng.com/static/png/6838231_preview.png" alt="PN6XxRnHcH" height="30" width="40" /></a>
+<a href="mailto:alexie.popescu2019@yahoo.com" target="blank">My Business Email</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
