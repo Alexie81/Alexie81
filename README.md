@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alexie81" alt="alexie81" /></a> </p>
 
-<!-- - 🔭 I’m currently working on RomanianCurrencyParser [RomanianCurrencyParser](https://github.com/Alexie81/RomanianCurrencyParser) -->
+- 🔭 I’m currently working on [RideSharing app](https://github.com/Alexie81/ride_sharing)
 
 - 🌱 I’m currently learning **PHP, vue, reactjs, nodejs**
 
