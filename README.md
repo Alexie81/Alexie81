@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **PHP, vue, reactjs, nodejs**
 
-- 👯 I’m looking to collaborate with Oracle [Oracle](https://github.com/oracle)
+- 👯 I’m looking to collaborate with [Oracle](https://github.com/oracle)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Alexie81](https://github.com/Alexie81)
 
