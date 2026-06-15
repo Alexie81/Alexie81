@@ -5,19 +5,15 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexie81&label=Profile%20views&color=0e75b6&style=flat" alt="alexie81" /> </p>
 
 
-- 🔭 I’m currently working on [EclipseAI](https://github.com/Alexie81/EclipseAI)
+- 🔭 I’m currently working on **AI deep-learning in web development**
 
-- 🌱 I’m currently learning **PHP, vue, reactjs, nodejs**
-
-- 👯 I’m looking to collaborate with [Oracle](https://github.com/oracle)
-
-  - 👨‍💻 All of my projects are available at [cab-it.ro](https://cab-it.ro/)
+- 👨‍💻 All of my projects are available at [cab-it.ro](https://cab-it.ro/)
 
 - 💬 Ask me about **html, js, firebase, nodejs, electron, reactjs, css, database, PHP, bootstrap, python, tensorflow, mySql, sql, sqlite, node-databases, git, mongodb, android, react-native**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="mailto:alexie.popescu2019@yahoo.com" target="blank">My Business Email</a>
+<a href="mailto:alexie.popescu@cab-it.ro" target="blank">My Business Email</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
